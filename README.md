@@ -31,6 +31,7 @@ After running, open the local Gradio link in your browser.
 * Gradio
 * Deep Translator (Google Translate API)
 
-Sample output screen
+## Sample output screen
+
 <img width="1395" height="789" alt="Untitled" src="https://github.com/user-attachments/assets/05686561-83df-40fb-8ccf-98936c956d82" />
 
